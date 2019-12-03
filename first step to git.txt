@@ -8,3 +8,7 @@ install git hub
 instal vscode
 also can instal sublime text
 
+python
+js
+nodejs
+
